@@ -1,0 +1,38 @@
+body{
+
+background-color:#2F4F4F;
+
+
+}
+
+
+.widgets {
+
+background-color:#2F4F4F;
+color: #FFF;
+margin-bottom: 12px; 
+
+}
+
+
+.widgets > div {
+background-color: #008080;
+color:#F8F8FF;
+margin-bottom: 12px;
+
+
+}
+
+footer {
+	padding: 0px 80px;
+	background:#550404;
+	text-align: center; 
+	color: #fff;
+	font-size: xx-small;
+}
+
+
+
+
+
+
